@@ -1,0 +1,11 @@
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe.config
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.pdb
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Dapper.dll
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\bin\Debug\Dapper.xml
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Form1.resources
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.exe
+c:\users\xh00125.ad\documents\visual studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.pdb
